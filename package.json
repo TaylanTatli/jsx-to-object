@@ -15,6 +15,7 @@
     "@types/react": "^19.1.8",
     "@types/react-dom": "^19.1.6",
     "@types/react-syntax-highlighter": "^15.5.13",
+    "@yeskunall/astro-umami": "^0.0.6",
     "astro": "^5.9.3",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
